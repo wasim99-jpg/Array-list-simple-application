@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MyArrayList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyArrayList\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyArrayList()
+comment10.params=
+comment10.target=void\ RemoveFromFront()
+comment11.params=
+comment11.target=void\ RemoveFromBack()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=theValue
+comment4.target=void\ insertAtFront(java.lang.Object)
+comment5.params=theValue
+comment5.target=void\ insertAtBack(java.lang.Object)
+comment6.params=theValue\ index
+comment6.target=void\ insertAtIndex(java.lang.Object,\ int)
+comment7.params=index
+comment7.target=java.lang.Object\ get(int)
+comment8.params=
+comment8.target=void\ display()
+comment9.params=
+comment9.target=int\ size()
+numComments=12
